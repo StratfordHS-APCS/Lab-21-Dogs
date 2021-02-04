@@ -1,4 +1,4 @@
-# Lab 18 - Sum Around
+# Lab 21 - Dog
 
 **Lab Goal:**   
 This lab was designed to give you practice using inheritance.
